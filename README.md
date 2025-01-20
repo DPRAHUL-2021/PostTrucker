@@ -35,3 +35,11 @@ To run PostTrucker locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/posttrucker.git
+
+2. Install dependencies:
+    ```sh
+    npm install
+
+3. Start the development server:
+    ```sh
+    npm run dev
